@@ -1,15 +1,16 @@
-### Bem vindos ao meu perfil🫀
+### Bem vindos ao meu perfil🇧🇷🫀
 
-**Thalia2704/Thalia2704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Meu nome é Thalia da Silva Ribas *
+ 
+- Estou estudando na Alura
+- Estou me desenvolvendo na Linguagem JavaScript
 
-Here are some ideas to get you started:
+  ### Contato 📧
+  thalia_silva27💙
+  
+  thalia.ribas@escola.pr.gov.br
+  
+  ribasthalia88@gmail.com
 
-- 🔭 I’m currently working on ... lagarto
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+  ![]( https://media.tenor.com/tqERWt8lBYEAAAAC/calculating-puzzled.gif)
+ 
